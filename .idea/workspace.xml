@@ -2,411 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0636580-658b-4cad-a3cb-556d6233a56f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Stiv_Makkonnell_-_Sovershenny_kod_2-e_izdanie.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Main example.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/example5635.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/example6556.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task3951/test1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task3951/test3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task3951/test4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task3951/test6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task6409/example.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task6409/test1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task6409/test2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task6409/test5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/example.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7060/test8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7343/example.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7343/test1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7343/test2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task7343/test5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task9300/test2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task9300/test3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task9300/test5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/task9300/test6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/images/Области 9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/res/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР1.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР10.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР12.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР13.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР14.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР15.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР2.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР5.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР6.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР7.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР8.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Письменные задания к ЛР9.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Простые операции с git.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[10] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[11] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[12] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[13] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[14] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[15] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[16] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[1] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[2] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[5] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[6] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[7] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[8] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/[9] лаб. ОСАЛП.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test3.csv.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1212/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1668/test1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1668/test2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1668/test3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1753/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1954/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1954/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1954/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1954/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task1954/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test11.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test15.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test16.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test18.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2033/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2048/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task2137/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data0.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/data7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/list1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/list2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/list3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/list4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3148/list6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3226/test9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test11.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task3567/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4372/test1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4372/test2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4372/test3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4372/test4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4463/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4488/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4488/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4488/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4488/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4488/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4642/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4642/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4642/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4642/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4769/test9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4954/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4954/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4954/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task4954/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5032/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5081/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5081/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5081/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test11.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5108/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5537/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5537/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5537/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5537/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5537/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task5847/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6175/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6175/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6175/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6175/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6175/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6861/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6861/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6861/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6861/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6882/test8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6981/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6981/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6981/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6981/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task6981/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7432/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7432/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7432/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7432/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7432/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7560/test8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7657/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7738/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7738/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task7738/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9002/test8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9299/test8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9417/data9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9472/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9924/test9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9930/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9930/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9930/test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9930/test5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9930/test6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9990/test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9990/test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/files/task9990/test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/handlers/handler2070.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/handlers/handler4304.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/handlers/handler7248.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/handlers/handler7693.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/handlers/handler8718.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab12Task2030.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab12Task2354.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab12Task5164.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab12/Lab12Task7649.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab13/Lab13Task3784.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab13/Lab13Task6732.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab13/Lab13Task9701.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task1379.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task1753.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task1953.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task2000.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task2033.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task2401.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task2662.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task2809example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task3185example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task3567.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task3956example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task4147example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task5032.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task5108.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task5242.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task5421example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task5449example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task6011example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task6037.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task6981.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task7297.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task7301.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task8403example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task9713.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/Task9914.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task2809example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task3185example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task3956example/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task3956example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task3956example/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task3956example/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task4147example/Interval.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task4147example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task4147example/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task5421example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task5449/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task6011example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task7301example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab14/task8403example/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/Lab15Task8787.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/Task1457.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/Task6876.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/Task7186.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/Task8258example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task1457/Comparator1457.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task1457/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task6876/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task6876/Comparator6876.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task6876/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task6876/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task7186/Comparator7186.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/lab15/task8258example/Comparator8258.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/postcard.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/postcard/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/конспекты/pre1662.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/конспекты/pre1860.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/конспекты/pre3862.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/конспекты/pre4411.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/конспекты/pre9231.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab12/task5164.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/labs/lab01.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/task5164.java" afterPath="$PROJECT_DIR$/src/lab12/task5164.java" />
+      <change beforePath="$PROJECT_DIR$/src/labs/lab01.java" afterPath="$PROJECT_DIR$/src/labs/lab01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -416,8 +15,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="file://$PROJECT_DIR$/src" module="pr1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/labs" module="pr1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/labs/lab01.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/lab12" module="pr1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/lab12/task5164.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="test1.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/files/task1212/test1.csv">
           <provider selected="true" editor-type-id="text-editor">
@@ -428,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task5164.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task5164.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab12/task5164.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="509">
+              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab01.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lab01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/labs/lab01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="485">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
                 <element signature="e#136#137#0" expanded="true" />
@@ -489,10 +100,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="654" />
-    <option name="height" value="991" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="805" />
+    <option name="width" value="1122" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -512,17 +123,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="pr1" type="b2602c69:ProjectViewProjectNode" />
               <item name="chihmanjava1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pr1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chihmanjava1" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pr1" type="b2602c69:ProjectViewProjectNode" />
@@ -545,16 +152,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -573,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task5164">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -595,6 +201,25 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration name="task5164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lab12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lab12.task5164" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="pr1" />
+      <envs />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -614,12 +239,6 @@
       </option>
       <envs />
       <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -655,24 +274,11 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="task5164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lab12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lab12.task5164" />
-      <option name="VM_PARAMETERS" />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="pr1" />
-      <envs />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <recent_temporary>
       <list size="1">
@@ -682,6 +288,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -694,35 +303,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <frame x="805" y="0" width="1122" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4537037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16442953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33997786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08047016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -741,6 +349,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs/lab01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pr1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab12/task5164.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/files/task1212/test1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab12/task5164.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pr1.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -751,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/labs/lab01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="105">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
@@ -762,11 +415,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/files/task1212/test1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs/lab01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pr1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab12/task5164.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="665">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/files/task1212/test1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pr1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab12/task5164.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs/lab01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -810,7 +529,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
