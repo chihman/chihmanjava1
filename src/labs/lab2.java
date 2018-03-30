@@ -1,11 +1,11 @@
 package labs;
 
 public class lab2 {
-    public static double task4411(double x) {
-        double a;
-        a = x + 7;
-        return a;
-    }
+        public static double task4411(double x) {
+            double a;
+            a = x + 7;
+            return a;
+        }
 
     public static double task8428(double aInDeg) {
         double aInRad;

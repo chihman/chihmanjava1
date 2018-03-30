@@ -1,14 +1,10 @@
 package lab12;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
 public class task6882 {
     public static void main(String[] args) {
         try {
-
-
             String filename = "res\\files\\task6882\\test6.txt";
             File target = new File(filename);
             Scanner reader = new Scanner(target);
@@ -20,17 +16,12 @@ public class task6882 {
                 if (b < a) {
                     a = b;
                 }
-
             }
             System.out.print(a);
         } catch (FileNotFoundException e) {
             System.out.println("Файл не найден ");
-
-
         } catch (java.lang.NumberFormatException t) {
             System.out.println("Не удается считать число ");
-
-
         }
 
     }
