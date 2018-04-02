@@ -1,4 +1,4 @@
-package DomLabs12;
+package DomLabs;
 
 public class Lab12_2labs {
 

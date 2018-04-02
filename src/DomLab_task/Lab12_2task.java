@@ -1,5 +1,5 @@
-package DomLab12task;
-import DomLabs12.Lab12_2labs;
+package DomLab_task;
+import DomLabs.Lab12_2labs;
 public class Lab12_2task {
     public static void main(String[] args) {
 
