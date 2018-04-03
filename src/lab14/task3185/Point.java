@@ -1,4 +1,4 @@
-package Lab14.task3185example;
+package lab14.task3185;
 
 /**
  * @author akryukov
@@ -14,5 +14,6 @@ public class Point {
         int dx = p.x - x;
         int dy = p.y - y;
         return Math.sqrt(dx*dx + dy*dy);
+
     }
 }

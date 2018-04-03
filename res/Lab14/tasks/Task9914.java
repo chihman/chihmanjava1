@@ -1,6 +1,6 @@
-package Lab14;
+package Lab14.tasks;
 
-import Lab14.task9914.Interval;
+import Lab14.solution.task9914.Interval;
 
 /**
  * @author akryukov

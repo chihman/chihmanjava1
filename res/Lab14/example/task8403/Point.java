@@ -1,4 +1,4 @@
-package Lab14.task8403example;
+package Lab14.example.task8403;
 
 /**
  * @author akryukov

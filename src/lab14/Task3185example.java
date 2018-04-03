@@ -1,6 +1,6 @@
-package Lab14;
+package lab14;
 
-import Lab14.task3185example.Point;
+import lab14.task3185.Point;
 
 /**
  * @author akryukov
