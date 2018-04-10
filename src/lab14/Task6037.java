@@ -1,12 +1,12 @@
-package Lab14;
+/*package lab14;
 
-import Lab14.task6037.Interval;
+import lab14.task9914.Interval;
 
 /**
  * @author akryukov
  *         13.07.2017
  */
-public class Task6037 {
+/*public class Task6037 {
     public static void main(String[] args) {
         Step1();
         Step2();
@@ -80,3 +80,4 @@ public class Task6037 {
         }
     }
 }
+*/

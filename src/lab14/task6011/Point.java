@@ -1,4 +1,4 @@
-package Lab14.task6011example;
+package lab14.task6011;
 
 /**
  * @author akryukov

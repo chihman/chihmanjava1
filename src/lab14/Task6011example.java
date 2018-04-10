@@ -1,6 +1,7 @@
-package Lab14;
+package lab14;
 
-import Lab14.task6011example.Point;
+
+import lab14.task6011.Point;
 
 /**
  * @author akryukov
