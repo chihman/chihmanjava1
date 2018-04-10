@@ -1,4 +1,4 @@
-package DomLabs12;
+package DomLabs;
 
 public class domlab12 {
     public static void task7 (String a){ //принимает строковую переменную "а" из таск7

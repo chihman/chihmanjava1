@@ -1,5 +1,5 @@
-package DomLab12task; // название пакета
-import DomLabs12.domlab12; //ссылка имяпапки.имяпакета
+package DomLab_task; // название пакета
+import DomLabs.domlab12; //ссылка имяпапки.имяпакета
 
 public class dom_task12 //имя класса
 {
