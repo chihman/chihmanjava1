@@ -24,7 +24,7 @@ public class Task9914 {
         Interval r = new Interval();
         r.a = 5;
         r.b = 7;
-        boolean fact = 23.intersects(r);
+        boolean fact = l.intersects(r);
         if(fact){
             System.out.println("Пересекаются");
         } else {

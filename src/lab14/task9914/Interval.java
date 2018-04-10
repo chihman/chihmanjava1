@@ -1,24 +1,27 @@
 package lab14.task9914;
 
 
-
 /**
  * Created by pro-28 on 03.04.2018.
  */
 public class Interval {
-
     public int a;
     public int b;
-public boolean intersects (Interval r){
+    boolean c;
 
-
-}
-    public double distanceTo(lab14.task3185.Point p) {
-
-        if (a == b) {
-            throw new IllegalArgumentException("Пересекаются");
+    public boolean intersects(Interval r) {
+        if( r == null){
+            throw new IllegalArgumentException("Конечная точка не инициализирована");
         }
 
+        if (this .a <= r.a && this.a >= r.b||this .b <= r.a && this.b >= r.b) {
+            c = true;
 
+        } else {
+            c = false;
+        }
+        return c;
 
-}}
+    }
+
+}
