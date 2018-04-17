@@ -10,6 +10,7 @@ public class Point {
     public double distanceTo(int px, int py){
         int dx = px - this.x;
         int dy = py - y;
+
         return Math.sqrt(dx*dx + dy*dy);
     }
 }

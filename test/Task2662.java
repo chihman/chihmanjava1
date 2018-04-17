@@ -1,6 +1,4 @@
-package Lab14.tasks;
-
-import Lab14.solution.task2662.Interval;
+import Interval;
 
 /**
  * @author akryukov
@@ -22,6 +20,7 @@ public class Task2662 {
     }
 
     private static void Step1(){
+
         Interval i1 = new Interval(0, 15);
         Interval i2 = new Interval(15, 30);
         if (i1.equals(i2)){

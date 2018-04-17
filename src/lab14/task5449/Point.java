@@ -1,20 +1,19 @@
-package lab14.task3185;
+package lab14.task5449;
 
 /**
  * @author akryukov
- *         13.07.2017
+ *         17.07.2017
  */
 public class Point {
-    public int x;
-    public int y;
-    public double distanceTo(Point p){
-        if(p == null){
-            throw new IllegalArgumentException("Конечная точка не инициализирована");
-        }
-        int dx = p.x - this.x;
-        int dy = p.y - this.y;
-        return Math.sqrt(dx*dx + dy*dy);
+    private int x;
+    private int y;
 
+    public Point(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+    public String print(){
+        return "(" + x + ";" + y + ")";
     }
 
     @Override
@@ -26,6 +25,7 @@ public class Point {
 
         if (x != point.x) return false;
         return y == point.y;
+
     }
 
     @Override
