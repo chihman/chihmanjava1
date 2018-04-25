@@ -1,9 +1,6 @@
-package Lab14;
+package lab14;
 
-
-import Lab14.task4147example.Interval;
-import Lab14.task4147example.Point;
-import Lab14.task4147example.Rectangle;
+import lab14.task4147.*;
 
 /**
  * @author akryukov
@@ -77,5 +74,13 @@ public class Task4147example {
         }else {
             System.out.println("Не пересекаются");
         }
+
+    }
+
+
+    private static void Step7 (){
+        Rectangle c = new Rectangle (1,2,3,4);
+        System.out.println(c);
+
     }
 }
