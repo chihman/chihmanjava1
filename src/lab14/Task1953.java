@@ -10,13 +10,13 @@ public class Task1953 {
     public static void main(String[] args) {
         Step1();
        Step2();
-        //Step3();
+       Step3();
         //Step4();
     }
 
     private static void Step1(){
         Circle c = new Circle(100, 200, 50);
-        System.out.println("<circle cx=" + c + " cy=" +c+ " r=" + c  + "/>");
+        System.out.println(c);
     }
 
     private static void Step2(){

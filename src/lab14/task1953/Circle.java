@@ -14,10 +14,29 @@ public class Circle {
         this.w = w;
 
     }
-
+    @Override
+    public String toString() {
+        return "<circle cx=" + x  +
+                " cy=" + y +
+                " r=" + w +
+                "/>";//переопределили метод тустринг
+    }
     public Object area() {
         this.w = w;
         double a = 2 * 3.14 * w;
         return a;
     }
+
+
+
+
+
+    public Interval getProjectionX() {
+            return new Interval( this.x - this.w, this.x + this.w );
+    }
+    public Interval getProjectionY() {
+        return new Interval( this.y - this.w, this.y + this.w );
+    }
+
+
 }
