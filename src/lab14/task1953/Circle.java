@@ -28,9 +28,6 @@ public class Circle {
     }
 
 
-
-
-
     public Interval getProjectionX() {
             return new Interval( this.x - this.w, this.x + this.w );
     }
